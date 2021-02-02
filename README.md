@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/AustinCasteel/AustinCasteel/master/assets/images/github_banner.png">
 
 <p align='center'>
-    <a href="https://sourcerer.io/austincasteel"><img height="30" src="https://sourcerer.io/icons/logo-bright.svg"></a>&nbsp;&nbsp;
+    <a href="https://codersrank.io/austincasteel"><img height="30" src="https://code.austincasteel.com/images/logo_cr.svg"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/AustinBCasteel"><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4b882220efc78dc824c7647a81b47dd1d4fdd3d8/icons/twitter.svg"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/austinbcasteel/"><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4b882220efc78dc824c7647a81b47dd1d4fdd3d8/icons/instagram.svg"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/austincasteel/"><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4b882220efc78dc824c7647a81b47dd1d4fdd3d8/icons/linkedin.svg"></a>
