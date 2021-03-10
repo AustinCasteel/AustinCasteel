@@ -9,7 +9,8 @@
 
 Hey there 👋,
 
-I do filmmaking, web development, engineering & CADD development,  and vocal assistance work. I am a maintainer & web developer for [ProjectNaomi](https://github.com/naomiproject).
+I do filmmaking, web development, engineering & CADD development, vocal assistance work, UI/UX/and front-end development.
+I am a maintainer & web developer for [ProjectNaomi](https://github.com/naomiproject) as well as a UI, UX, and Front-end developer for [TechSlayers](https://github.com/tech-slayer).
 
  ---
 
