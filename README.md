@@ -9,7 +9,13 @@
 
 Hey there 👋,
 
-I'm currently a software engineer at [TechSlayers](https://techslayers.com) and I am a maintainer & web developer for [ProjectNaomi](https://projectnaomi.com) based in 🚀 Huntsville, AL. I am working on some side projects & learning a couple new dishes.
+Hi, I’m Austin — a cybersecurity specialist, astronautical engineer, and passionate home chef. My career is rooted in systems thinking, whether I’m securing digital infrastructure, designing technology for space, or perfecting a new recipe.
+
+With a background in astronautical engineering, I’ve always been drawn to the complexity and ambition of space exploration. That same drive fuels my work in cybersecurity, where I help build resilient systems that stand up to today’s evolving threats. Both fields demand precision, adaptability, and a deep respect for both technology and the human factor.
+
+But when the laptop closes, you’ll likely find me in the kitchen. Cooking is where creativity and experimentation take the lead — often inspired by the same curiosity that powers my work in science and tech. Whether I’m reverse-engineering a spacecraft protocol or a signature sauce, I’m always chasing that moment when everything just clicks.
+
+I believe in connecting disciplines, challenging boundaries, and never settling for just one path. This is a place where space, security, and spice all belong.
 
  ---
 
